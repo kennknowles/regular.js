@@ -5,6 +5,9 @@ regular.js: Regular Expression abstract syntax for Regular Javascript pogrammers
 Currently a WIP, though you /can/ take some derivatives, check nullability, and stream the
 language. Bugs included.
 
+This library is emphatically /not/ for matching regular expressions, though it can be used
+for that, but for manipulating for them e.g. visual demonstrations.
+
 Requirements:
 
  * Underscore.js
